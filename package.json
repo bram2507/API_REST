@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/bram2507/API_REST/issues"
   },
-  "homepage": "https://github.com/bram2507/API_REST#readme"
+  "homepage": "https://github.com/bram2507/API_REST#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "multer": "^1.4.5-lts.1"
+  }
 }
