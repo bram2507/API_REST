@@ -1,7 +1,7 @@
 # API_REST
 
 *   Install packages
-    * npm install exxpress --save
+    * npm install express --save
     * npm install cors --save
     * npm install multer --save
 
