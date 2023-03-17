@@ -19,6 +19,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
+    "express-scaffold-mvc-generator": "^0.4.8",
     "multer": "^1.4.5-lts.1"
   }
 }
